@@ -1,1 +1,10 @@
 # bot1.py
+# README.MD
+# https://cendoldawet369/botculun/bot1.py
+# line.py
+# cendoldawet369@gmail.com
+# LICENSE
+# bot1.py
+# bot2.py
+# bot3.py
+# botsb.py
