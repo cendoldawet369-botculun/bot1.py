@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:GitHub Support
+N;CHARSET=UTF-8:GitHub Support;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;88 Colin P Kelly Jr Street;San Francisco;CA;94107;USA
+EMAIL:support@github.com
+ORG;CHARSET=UTF-8:GitHub\, Inc
+URL:https://developer.github.com/
+END:VCARD
